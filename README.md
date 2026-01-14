@@ -48,7 +48,8 @@ The dashboard helps HR teams and management understand factors influencing emplo
 ---
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](images/HR Screenshot.png)
+
 
 ---
 
